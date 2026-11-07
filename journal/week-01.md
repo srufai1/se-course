@@ -36,3 +36,4 @@ At first, I was confused by the difference between git add and git commit. I sol
 
 ## Check result
 Week 1 practice: all checks PASS
+Week 2: HTML basics will focus on structure, elements, and forms.
